@@ -642,6 +642,22 @@
     "destination_icon": "uesp.png"
   },
   {
+    "id": "en-etrianodyssey",
+    "origins_label": " Etrian Odyssey Wiki",
+    "origins": [
+      {
+        "origin": "Etrian Odyssey Wiki",
+        "origin_base_url": "etrian.fandom.com",
+        "origin_content_path": "/wiki/"
+      }
+    ],
+    "destination": "Etrian Odyssey Wiki",
+    "destination_base_url": "etrianodyssey.wiki",
+    "destination_content_path": "/wiki/",
+    "destination_platform": "mediawiki",
+    "destination_icon": ""
+  }, 
+  {
     "id": "en-fzero",
     "origins_label": "F-Zero Fandom Wiki",
     "origins": [
